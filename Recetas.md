@@ -1,8 +1,8 @@
 # Tortilla Española
 **Ingredientes:**
-* 4 huevos
+* 4 huevos ( o mas )
 * Patatas
-* Cebolla
+* Cebolla 
 * Aceite de oliva
 * Sal
 
