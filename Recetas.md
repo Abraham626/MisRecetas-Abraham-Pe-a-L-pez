@@ -12,3 +12,4 @@
 3. Batir los huevos con sal.
 4. Añadir las patatas y la cebolla a los huevos batidos.
 5. Cocinar en una cocina hasta que esté cuajada la patata
+Fin
